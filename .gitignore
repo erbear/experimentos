@@ -1,0 +1,4 @@
+*.jpg
+.settings/
+.project
+.classpath
